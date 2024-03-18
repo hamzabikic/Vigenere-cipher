@@ -22,6 +22,7 @@ Instructions for Running
 
 3. Explore the Application: After opening, explore the functionalities of the application.
 
-Additional Information
+# Additional Information
 
 This application is built solely using pure HTML, CSS, and JavaScript. It serves as a good example of a simple web application that doesn't require additional libraries or frameworks.
+The application is responsive for all types and sizes of devices.
