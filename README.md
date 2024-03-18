@@ -13,7 +13,7 @@ Instructions for Running
 
 1. Download the Code: Download or clone the repository to your device:
 
-- git clone <repository_URL>
+- git clone https://github.com/hamzabikic/Vigenere-cipher.git
 
 2. Open the HTML File: Open the HTML file of your application in a web browser. You can do this in two ways:
 
